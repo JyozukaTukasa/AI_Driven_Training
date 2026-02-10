@@ -1,0 +1,17 @@
+# System Files
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+
+# Large Media Files (Exclude from git logic, but allow in assets if small)
+# *.mp4
+# *.mov
+# *.avi
+
+# Project specific
+.cursorrules
+.vscode/
+__pycache__/
+*.py[cod]
+*.log
